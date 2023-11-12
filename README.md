@@ -1,6 +1,6 @@
 # Development-of-an-Adaptable-Deep-Learning-Model-for-Artistic-Style-Transfer
 
-In this article, a lightweight PyTorch implementation of neural style transfer was built, and learn how to transfer popular art styles onto any image was described.
+In this notebook, a lightweight PyTorch implementation of neural style transfer was built, and learn how to transfer popular art styles onto any image was described.
 
 
 ## Overview
