@@ -27,3 +27,4 @@ The result is a new picture that has your content but looks like it was painted 
    - *Total Loss*: The cumulative sum of the above losses, each multiplied by its respective weight.
 
 6. **Optimization Technique**: We employ the L-BFGS iterative optimization method to progressively minimize these losses, achieving the desired synthesized results.
+<img width="1114" alt="NST_img" src="https://github.com/tirtharajpal/-Development-of-an-Adaptable-Deep-Learning-Model-for-Artistic-Style-Transfer/assets/150589994/1b72e209-4835-44b1-8f53-2b2e54d15ec2">
