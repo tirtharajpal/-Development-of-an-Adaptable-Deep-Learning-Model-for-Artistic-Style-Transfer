@@ -1,5 +1,6 @@
 # Development-of-an-Adaptable-Deep-Learning-Model-for-Artistic-Style-Transfer
 
+
 # Development of an Adaptable Deep Learning Model for Artistic Style Transfer
 
 In this article, a lightweight PyTorch implementation of neural style transfer was built, and learn how to transfer popular art styles onto any image was described.
@@ -27,4 +28,17 @@ The result is a new picture that has your content but looks like it was painted 
    - *Total Loss*: The cumulative sum of the above losses, each multiplied by its respective weight.
 
 6. **Optimization Technique**: We employ the L-BFGS iterative optimization method to progressively minimize these losses, achieving the desired synthesized results.
+
+
+
+## Dependencies
+
+* Python 3.9+
+
+* Framework: PyTorch
+
+* Libraries: os, numpy, cv2, matplotlib, torchvision
+## Output
+
+
 <img width="1114" alt="NST_img" src="https://github.com/tirtharajpal/-Development-of-an-Adaptable-Deep-Learning-Model-for-Artistic-Style-Transfer/assets/150589994/1b72e209-4835-44b1-8f53-2b2e54d15ec2">
